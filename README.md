@@ -21,7 +21,7 @@ _The concept that is being threated today is called a [Singly Linked List](https
 The train is composed of:
 
 -   Locomotive which has attached to a wagon
--   Multiple wagons which each have maximum 1 wagon attached to it
+-   Multiple wagons which each ahve maximum 1 wagon attached to it
 
 The next wagon that is attached to either the locomotive or another wagon, is called `next`. When that value is `null`, that means it's the last wagon on the train
 
