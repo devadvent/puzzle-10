@@ -52,7 +52,7 @@ There are three parameters:
 -   `actionFn`: A function that is executed for every filtered item. Use the predefined `defaultActionFn` as default
 -   `filterFn`: Function that filters the list, following the principles of [Array filter methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter). Use the predefined `defaultFilterFn` as default
 
-### filterOldBreaks
+### filterOldBrakes
 
 Check if the `lastBrakeRevision` is older than 1 year, compared to today's date.
 Return `true` when the brake revision is older than 1 year!
