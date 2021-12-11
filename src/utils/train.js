@@ -6,6 +6,6 @@ const defaultActionFn = wagon => console.log(`${wagon.emoji} ${wagon.name}`)
 
 export const iterateWagons = (start, actionFn, filterFn) => {}
 
-export const filterOldBreaks = wagon => {
+export const filterOldBrakes = wagon => {
     return true
 }
